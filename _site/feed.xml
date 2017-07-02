@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-01T15:39:37+05:30</updated><id>http://localhost:4000//</id><title type="html">Codebenders</title><subtitle>Indira Gandhi Delhi Technical University for Women</subtitle><author><name>CodeBenders</name><email>igdtuwcodebenders@gmail.com</email></author><entry><title type="html">Android-powering the World</title><link href="http://localhost:4000/blog/android-powering-the-world" rel="alternate" type="text/html" title="Android-powering the World" /><published>2017-06-01T00:00:00+05:30</published><updated>2017-06-01T00:00:00+05:30</updated><id>http://localhost:4000/blog/android-powering-the-world</id><content type="html" xml:base="http://localhost:4000/blog/android-powering-the-world">&lt;p&gt;We live in a world where the term ‘Android’ is synonymous with mobile computing. It is the platform that powers millions and millions of mobile devices. It spans nearly 200 countries across the world. It brings you the power to connect to the world, build games, develop apps, read books, watch movies, listen to music and so much more.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://localhost:4000/images/gallery1/A1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/gallery1/A1.png&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;According to a survey, there were close to two billion Android powered devices in 2016, and this number will only increase. For more than two hundred million Indians, Android is the primary platform for consumption of content. 
+From social and communication apps like Whatsapp, Instagram and Snapchat to utilities like Uber, Swiggy and Paytm - Android is the platform that enables companies to cater to their users 24x7.&lt;/p&gt;
+
+&lt;p&gt;This emerging field of computer science is easy and very interesting to learn (contrary to belief!).  There are various sources available on the internet to learn android but the one provided by Google is the most frequently used. You can find it &lt;a href=&quot;https://developer.android.com/training/index.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It explains all the topics from scratch with code samples that you can test and use in your apps as well. According to your level of understanding and comfort, the entire curriculum is divided into various classes starting from very basic to all the advanced functionalities available in android. The panel on the left gives you options to build apps ranging from the most basic ‘Hello World’ app to apps using the Google Maps API.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://localhost:4000/images/gallery1/A2.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/gallery1/A2.png&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+	&lt;a href=&quot;http://localhost:4000/images/gallery1/A3.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/gallery1/A3.png&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For all the app development enthusiasts, this is a great platform to begin your journey! It is the perfect opportunity to build as you go and develop as you learn.&lt;/p&gt;</content><author><name>CodeBenders</name><email>igdtuwcodebenders@gmail.com</email></author><category term="Android Development" /><category term="Android" /><summary type="html">We live in a world where the term ‘Android’ is synonymous with mobile computing. It is the platform that powers millions and millions of mobile devices. It spans nearly 200 countries across the world. It brings you the power to connect to the world, build games, develop apps, read books, watch movies, listen to music and so much more.</summary></entry><entry><title type="html">CodeChef – A Recipe to Success</title><link href="http://localhost:4000/blog/codechef-a-recipe-to-success" rel="alternate" type="text/html" title="CodeChef – A Recipe to Success" /><published>2017-05-30T00:00:00+05:30</published><updated>2017-05-30T00:00:00+05:30</updated><id>http://localhost:4000/blog/codechef-a-recipe-to-success</id><content type="html" xml:base="http://localhost:4000/blog/codechef-a-recipe-to-success">&lt;p&gt;Amongst the many coding platforms that promote the concept of competitive programming, the one name that stands out is CodeChef. It is an initiative by Directi which has provided an amazing opportunity for coders to not only pursue their passion, but also collaborate and guide the beginners. Being a worldwide platform, it provides an indication of one’s global ranking in this field. The combination of Ideone (Codechef’s own integrated development environment) and support for 50 different programming languages ensures that coders can code, run and test their programs with as much ease as possible.&lt;/p&gt;
+
+&lt;p&gt;This post aims to be an informative guide for beginners on how to use CodeChef and exploit the maximum number of its features.&lt;/p&gt;
+
+&lt;p&gt;The first step, naturally, is to log on to &lt;a href=&quot;http://www.codechef.com&quot;&gt;http://www.codechef.com&lt;/a&gt; and sign up! As the top three tabs on the home page suggest, you can Practice problems according to your level of expertise, Compete on a global scale with other programmers and Discuss your doubts and issues pertaining to questions on the website.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://localhost:4000/images/gallery1/B1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/gallery1/B1.png&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The Practice tab offers questions ranging from Beginner and Peer (school children) all the way to Hard and Challenge. Depending on your level of comfort and knowledge, you can choose to practice with questions belonging to any of these categories.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://localhost:4000/images/gallery1/B2.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/gallery1/B2.png&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The contests on CodeChef can be divided into three main categories – the monthly challenge, the lunchtime challenge and the cook-off challenge. These contests are held every month and there are no restrictions on participation. If you think you’re capable enough and want to test yourself, or want to have a taste of competitive programming, this is the place to be.&lt;/p&gt;
+
+&lt;p&gt;The monthly challenge consists of about 10 questions that you can solve over a period of 10 days. It is alternatively called as the long challenge. The lunchtime challenge is a three hour contest within which competitors are asked to solve three questions. The cook-off challenge gives the coders two and a half hours to code, compile and run questions. The level of difficulty in all these contests varies from easy to difficult. CodeChef also provides incentives and goodies for winners of these challenges so as to encourage more and more people to participate. Besides, competing is a great way to test your ability to code within a stipulated time – a skill which comes in handy during placement season!&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/images/gallery1/B3.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/gallery1/B3.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://localhost:4000/images/gallery1/B4.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/gallery1/B4.png&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The Discussion board provides coders with a forum and blog to communicate and absolve their queries and issues related to problems on the website, or coding in general. It is a great medium for communication and learning from the experiences of others.&lt;/p&gt;
+
+&lt;p&gt;The potential of CodeChef is not limited to hosting challenges and providing questions for practice; it includes tools and features to develop a community of coders online as well as offline. It can be extended to schools and colleges in the form of campus chapters (like CodeBenders in IGDTUW) and allows people to host their own contests on their platform. This facilitates flexibility in the difficulty level of problems, aiming to make them suitable to the competitors’ expertise.&lt;/p&gt;
+
+&lt;p&gt;Solving problems on CodeChef is not an unachievable task. These problems are set by programmers who were once beginners. Besides, solutions to all the problems are easily available under the ‘All Submissions’ tab on the contest page. Referring to these solutions, however, calls for respect towards other peoples’ hard work and effort. Plagiarism is strictly prohibited and severely punished.&lt;/p&gt;
+
+&lt;p&gt;We hope this article could shed some light on CodeChef and how it works. We hope to see more students from IGDTUW making it big on this platform!&lt;/p&gt;</content><author><name>CodeBenders</name><email>igdtuwcodebenders@gmail.com</email></author><category term="Codechef" /><category term="Codechef" /><summary type="html">Amongst the many coding platforms that promote the concept of competitive programming, the one name that stands out is CodeChef. It is an initiative by Directi which has provided an amazing opportunity for coders to not only pursue their passion, but also collaborate and guide the beginners. Being a worldwide platform, it provides an indication of one’s global ranking in this field. The combination of Ideone (Codechef’s own integrated development environment) and support for 50 different programming languages ensures that coders can code, run and test their programs with as much ease as possible.</summary></entry><entry><title type="html">Add an existing project on Github</title><link href="http://localhost:4000/blog/Add-an-existing-project-on-Github" rel="alternate" type="text/html" title="Add an existing project on Github" /><published>2017-05-27T00:00:00+05:30</published><updated>2017-05-27T00:00:00+05:30</updated><id>http://localhost:4000/blog/Add-an-existing-project-on-Github</id><content type="html" xml:base="http://localhost:4000/blog/Add-an-existing-project-on-Github">&lt;p&gt;Learning a new platform is never comfortable, one of the reasons why we find many people running away from trying to learn GitHub. Our suggestion? Ease it in! GitHub is currently the largest online forum of collaborative works that exists in the world, or simply put a place you can’t happen to ignore if you belong to the technical world.&lt;/p&gt;
+
+&lt;p&gt;Here are a few simple steps to get you started on adding an existing project on GitHub.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;(Assuming you have a GitHub account already functioning) Click on the little ‘+’ button on the top right and select ‘New Repository’.&lt;/li&gt;
+  &lt;li&gt;You avoid a few errors, leave files like README/license/gitignore for after you have successfully pushed your project.&lt;/li&gt;
+  &lt;li&gt;Open Git Bash and change your current working directory to the local project.&lt;/li&gt;
+  &lt;li&gt;Initialize the local directory as a Git repository. Type the following on the prompt: &lt;code class=&quot;highlighter-rouge&quot;&gt;git init&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Add the files in your new local repository. It prepares them for the first commit. Type the following on the prompt: &lt;code class=&quot;highlighter-rouge&quot;&gt;git add .&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Commit the files that you’ve staged in your local repository.Type the following on the prompt: &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit -m &quot;First commit&quot;&lt;/code&gt;. “First commit” is just a string which appears along with your commit. You can omit this or type in whatever string you want to view there.&lt;/li&gt;
+  &lt;li&gt;At the top of your GitHub repository’s Quick Setup page, click to copy the remote repository URL.&lt;/li&gt;
+  &lt;li&gt;Type the following to the prompt: &lt;code class=&quot;highlighter-rouge&quot;&gt;git remote add origin &amp;lt;remote repository URL&amp;gt;&lt;/code&gt; where &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;remote repository URL&amp;gt;&lt;/code&gt; is the URL you copied in the previous step.&lt;/li&gt;
+  &lt;li&gt;Type the following on the prompt: &lt;code class=&quot;highlighter-rouge&quot;&gt;git remote -v&lt;/code&gt;. This verifies the new remote URL.&lt;/li&gt;
+  &lt;li&gt;To push changes in your local repository to GitHub, type the following on the prompt: &lt;code class=&quot;highlighter-rouge&quot;&gt;git push origin master&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And, you are all done!
+Here are a few basic videos to get you started with GitHub. Happy learning!
+&lt;a href=&quot;https://thenewboston.com/videos.php?cat=80&quot;&gt;https://thenewboston.com/videos.php?cat=80&lt;/a&gt;&lt;/p&gt;</content><author><name>CodeBenders</name><email>igdtuwcodebenders@gmail.com</email></author><category term="how-to" /><category term="Github" /><category term="Add project on Github" /><summary type="html">Learning a new platform is never comfortable, one of the reasons why we find many people running away from trying to learn GitHub. Our suggestion? Ease it in! GitHub is currently the largest online forum of collaborative works that exists in the world, or simply put a place you can’t happen to ignore if you belong to the technical world.</summary></entry><entry><title type="html">Hello World</title><link href="http://localhost:4000/blog/Hello-World" rel="alternate" type="text/html" title="Hello World" /><published>2017-02-17T00:00:00+05:30</published><updated>2017-02-17T00:00:00+05:30</updated><id>http://localhost:4000/blog/Hello-World</id><content type="html" xml:base="http://localhost:4000/blog/Hello-World">&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;no&quot;&gt;Hello&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;World&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/CodeBenders/&quot;&gt;Codebenders&lt;/a&gt; is the prgramming club of IGDTUW. We aim at providing a platform for competitive programming under CodeChef, and encourage and promote women in the field of technology.&lt;/p&gt;
+
+&lt;p&gt;Here we will be posting about everything technical - from coding errors to smart practices as well as the so-called &lt;code class=&quot;highlighter-rouge&quot;&gt;how to&lt;/code&gt; posts. If you wish to contribute in the form of blog post(s) or make suggestions, you can get in touch with us via one of social networking sites or drop us an email at &lt;em&gt;igdtuwcodebenders@gmail.com&lt;/em&gt;.
+For updates, stay tuned. Happy Coding!&lt;/p&gt;</content><author><name>CodeBenders</name><email>igdtuwcodebenders@gmail.com</email></author><category term="codebenders" /><category term="hello-world" /><category term="blog" /><summary type="html">Hello World!</summary></entry></feed>

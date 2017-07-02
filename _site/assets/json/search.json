@@ -1,0 +1,39 @@
+[
+  
+    {
+      "title"    : "Android-powering the World",
+      "category" : "Android Development",
+      "tags"     : "Android",
+      "url"      : "/blog/android-powering-the-world",
+      "date"     : "2017-06-01 00:00:00 +0530",
+			"shortdate": "June 01, 2017"
+    } ,
+  
+    {
+      "title"    : "CodeChef – A Recipe to Success",
+      "category" : "Codechef",
+      "tags"     : "Codechef",
+      "url"      : "/blog/codechef-a-recipe-to-success",
+      "date"     : "2017-05-30 00:00:00 +0530",
+			"shortdate": "May 30, 2017"
+    } ,
+  
+    {
+      "title"    : "Add an existing project on Github",
+      "category" : "how-to",
+      "tags"     : "Github, Add project on Github",
+      "url"      : "/blog/Add-an-existing-project-on-Github",
+      "date"     : "2017-05-27 00:00:00 +0530",
+			"shortdate": "May 27, 2017"
+    } ,
+  
+    {
+      "title"    : "Hello World",
+      "category" : "",
+      "tags"     : "codebenders, hello-world, blog",
+      "url"      : "/blog/Hello-World",
+      "date"     : "2017-02-17 00:00:00 +0530",
+			"shortdate": "February 17, 2017"
+    } 
+  
+]
